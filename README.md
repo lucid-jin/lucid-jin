@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucid-jin
 - 👀 I’m interested in react,typescript
-- 🌱 I’m currently learning remix
+
 
 
 <!---
